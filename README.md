@@ -1,0 +1,1 @@
+stable-internet-money-protocol
